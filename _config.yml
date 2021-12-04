@@ -13,8 +13,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Agostino Fiscale # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    Welcome foreign, in this web window I will share my personal ideas, thoughts and technical solutions hoping they can help who passes by.
   username: dekus # general username
   github: agostinofiscale # github username
   twitter: twitter_username # twitter username
