@@ -25,7 +25,7 @@ author:
 url: "https://agostinofiscale.dev" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: GTM-WCT8RKP
 fb_appid:
 
 # Collection setting
