@@ -16,3 +16,4 @@ You can [report](https://github.com/agostinofiscale/agostinofiscale.github.io/is
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+- linkedin.com/in/{{ site.author.linkedin }}/
