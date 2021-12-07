@@ -22,7 +22,7 @@ Today I'm twenty years old and I'm working as a developer at [Kotuko](https://ww
 
 Sharing knowledge has always been important. Since my first steps, tutorials have been fundamental to overcome obstacles and avoid headaches :face_with_head_bandage:. 
 
-It still happens to me to run into obstacles, It will always happen to everyone because It is part of the deal, but we have the sharing on our side that helps to overcome it.
+It still happens to me to run into obstacles, It will always happen to everyone because It is part of the deal, but we have the sharing on our side that helps us to overcome it.
 
 Sharing knowledge is so powerful and just like the others, I want to be part of this network and share anything that could help someone. :butterfly:
 
