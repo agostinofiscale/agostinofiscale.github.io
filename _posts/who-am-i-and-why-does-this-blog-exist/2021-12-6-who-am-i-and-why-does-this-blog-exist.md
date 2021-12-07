@@ -16,7 +16,7 @@ I was born in [Naples](https://it.wikipedia.org/wiki/Napoli) in February 2001 an
 
 Thanks to forums and to their tutorials I learned slowly the basic principles of information technology. I developed small projects :computer_mouse: to practice and meanwhile I studied everything that could help me at that time to overcome obstacles.
 
-Today I'm twenty years old and I'm working as a developer at [Kotuko](https://www.kotuko.it/) and bringing forward some [small projects](/my-projects/) in my free time.
+Today I'm twenty years old and I'm working as a developer at [Kotuko](https://www.kotuko.it/) and bringing forward some [projects](/my-projects/) in my free time.
 
 # Why does this blog exist? :computer:
 
