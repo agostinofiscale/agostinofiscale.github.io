@@ -166,25 +166,26 @@
         {%- if menus %}
           {%- for menu in menus -%} 
             {%- if url == menu.url -%}
-              <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
+              <a class="menu-link active" href="{% if site.lang != 'en' %}/{{ site.lang }}{% endif %}{{ menu.url }}">{% t pages.{{menu.title}} %}</a>
             {%- else -%} 
               {%- if menu.external -%}
                 <a
                   class="menu-link"
-                  href="{{ menu.url }}"
+                  href="{% if site.lang != 'en' %}/{{ site.lang }}{% endif %}{{ menu.url }}"
                   target="_blank"
                   rel="noopener"
                   >{{ menu.title }}</a
                 >
               {%- else -%}
-                <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
+                <a class="menu-link" href="{% if site.lang != 'en' %}/{{ site.lang }}{% endif %}{{ menu.url }}">{% t pages.{{menu.title}} %}</a>
               {%- endif -%} 
             {%- endif -%} 
           {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
-          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
+          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}">home</a>
+          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}about">about</a>
         {%- endif -%}
+
         <a class="menu-link rss" href="/feed.xml">
           <svg
             xmlns="http://www.w3.org/2000/svg"
